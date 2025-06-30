@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# JavaCorse
+# JavaCourse
 JavaStudy
 =======
 README
